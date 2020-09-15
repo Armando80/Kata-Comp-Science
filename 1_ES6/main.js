@@ -1,9 +1,13 @@
 //alert ("funciona");
 
-oracion = " ";
+//oracion = " ";
 function palindrome(oracion){
    minustext = oracion.toLowerCase();
-   return minustext;
+//   return minustext;
+   espatext = minustext.split("");
+  return espatext;
+//   sinEspaText = espatext.replace(/ /g,"");
+//   return sinEspaText;
 }
 
 
