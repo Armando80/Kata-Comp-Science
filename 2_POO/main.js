@@ -9,6 +9,12 @@ class Animal{
     comer(comida){
         return `${this.nombre} esta comiendo ${comida}`;
     }
+    getNombre(){
+        return this.nombre;
+    }
+    setNombre(newName) {
+        return this.nombre = newName;
+    }
 }
 
 const animal = new Animal(
