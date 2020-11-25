@@ -1,0 +1,11 @@
+{
+  "name": "15_promesa",
+  "version": "1.0.0",
+  "description": "Promesas",
+  "main": "promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
