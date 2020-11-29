@@ -1,12 +1,12 @@
 {
-  "name": "15_promesa",
+  "name": "aprendiendo_http",
   "version": "1.0.0",
-  "description": "Promesas",
-  "main": "promises.js",
+  "description": "Proyecto para aprender a hacer peticiones HTTP con el paquete Request",
+  "main": "client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Armando FC",
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"

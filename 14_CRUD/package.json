@@ -1,8 +1,8 @@
 {
-  "name": "15_promesa",
+  "name": "14_crud",
   "version": "1.0.0",
-  "description": "Promesas",
-  "main": "promises.js",
+  "description": "",
+  "main": "client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
